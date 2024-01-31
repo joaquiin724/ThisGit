@@ -4,6 +4,6 @@ using namespace std;
 
 int main(int argc, char *argv[]){
 
-    cout << "Fichero extra" << endl;
+    cout << "Fichero extra version 2" << endl;
     return 0;
 }
